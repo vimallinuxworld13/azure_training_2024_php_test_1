@@ -1,7 +1,7 @@
 <?php
 
-print("welcome to LW Site");
+print("welcome to LinuxWorld Site");
 print("<br>");
-print("i m Version 1");
+print("i m Version 2");
 
 ?>
